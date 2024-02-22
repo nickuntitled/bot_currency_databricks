@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Databricks](https://github.com/nickuntitled/bot_currency_databricks/raw/development/databricks.webp)
+
 **Databricks** is a data intelligence platform built by the well-known developer who created Apache Spark, Delta Lake, and Koalas, and built on the popular cloud computing platforms such as Google Cloud Platform (GCP), Amazon Web Services (AWS), and Microsoft Azure.
 
 This platform is made for various users: developers, data scientists, and data engineers, to easily manage, analyze, and visualize data, and to build a machine learning model.
